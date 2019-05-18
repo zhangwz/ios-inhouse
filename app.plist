@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.ctyle.com/download/PublicCourseraXinhuaHRP.ipa</string>
+					<string>http://www.ctyle.com/downloads/PublicCourseraXinhuaHRP.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
 					<key>url</key>
-					<string>http://www.ctyle.com/download/xinhua_hrp_icon.png</string>
+					<string>http://www.ctyle.com/downloads/xinhua_hrp_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
