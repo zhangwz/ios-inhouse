@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ctyle.enterprise.xinhua.hrp</string>
+				<string>com.xinhua.xinhuahrp</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
